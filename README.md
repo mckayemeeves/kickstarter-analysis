@@ -10,8 +10,10 @@ I ran into a problem with my data set severely skewed the findings. I believe th
 
 ### Results:
 1. Theater Outcomes by Launch Date:
-2. 
-1. Outcomes Based on Goals:
+2. ![image](https://user-images.githubusercontent.com/106174279/180090863-19853269-b575-475e-8043-8b7c23fc1642.png)
+
+3. Outcomes Based on Goals:
+![image](https://user-images.githubusercontent.com/106174279/180090798-d89c4fcb-dfe3-4be1-a72e-df5ffe6e6d30.png)
 
 ### Limitations of the dataset:
 ### Additional tables or graphs to be added:
