@@ -11,10 +11,10 @@ There are a few large values driving the data (maybe failed kickstarters with re
 I ran into a problem with my data set severely skewed the findings. I believe that I lost half of my data in the kickstarter page or some other unknown data loss occurred. I did my best to overcome the problem by looking at my countifs function to see if that was the problem. I learned that my countifs function was correct as it was, the data I was trying to reference just doesn't seem to exist on my kickstarter sheet. Next, I downloaded the original sheet for the second time to see if I still got the same results and I did. As such I decided that I would just work with the data that I had available to me. However, I did meet with the TA, Class instructor, and a tutor while I was looking for assistance and that helped me realize how useful those resources are to me. 
 
 ### Results:
-1. Theater Outcomes by Launch Date:
+### 1. Theater Outcomes by Launch Date:
 ![image](https://user-images.githubusercontent.com/106174279/180090863-19853269-b575-475e-8043-8b7c23fc1642.png)
 According to the data, the best time to launch a kickstarter campaign is in May. Anytime after May looks like the results drop off. In fact, October has an unusual spike in failed kickstarters which suggests that starting a campaign in October is not the best idea. However, during the fall months (Sept-Nov), there were no canceled kickstarter campaigns.
-2. Outcomes Based on Goals:
+### 2. Outcomes Based on Goals:
 ![image](https://user-images.githubusercontent.com/106174279/180090798-d89c4fcb-dfe3-4be1-a72e-df5ffe6e6d30.png)
 Again, my outcomes based on goals section seems out of whack so I hesitate to say this data points are valid. I will do my best to recognize insights despite of the limitations. According to the chart, the highest number of successful kickstarter campaigns had a goal of somewhere between $1,000-$4,999. 546 campaigns found success when they were between this number. Suprisingly, 273 campaigns failed when their goal was less than $1,000 while 108 were successful. This seems to suggest that there is a sweet spot when it comes to setting a goal amount. Seeing as how Louise's goal is $4,000 she should be able to reach her goal especially if she launched the campaign in the month of May.
 ### Limitations of the dataset:
